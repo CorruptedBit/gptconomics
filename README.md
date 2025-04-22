@@ -30,6 +30,11 @@ poetry install
 
 This will install [`tiktoken`](https://pypi.org/project/tiktoken/) as a dependency.
 
+You may want to build the application. With poetry 
+```bash
+poetry build
+```
+
 ---
 
 ## 🧪 Usage
